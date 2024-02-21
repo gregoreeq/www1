@@ -1,0 +1,10 @@
+body
+{
+    background-color: aqua;
+}
+p{
+    border: solid;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}

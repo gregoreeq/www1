@@ -1,0 +1,4 @@
+git commit 
+git config user.name ""
+git config --list
+git status 
